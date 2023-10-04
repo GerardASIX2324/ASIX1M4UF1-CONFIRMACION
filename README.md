@@ -44,5 +44,7 @@ cbshbsdbvvjsjnsjcnsjcdsihvnsjnjjenn jen ne nefu ndfn udn u udfn ufdn odn udnu nd
     </body>
 </html>
 ```
-[Esto es un enlace](htt://joan23.fje.edu "enlace a la web del cole")
+
+[Esto es un enlace](https://www.fje.edu "enlace a la web del cole")
+
 ![esto es una imagen del horario](https://github.com/GerardASIX2324/ASIX1M4UF1-CONFIRMACION/blob/main/2324%20ASIX1%20Horari.png "titulo opcional de la imagen")
