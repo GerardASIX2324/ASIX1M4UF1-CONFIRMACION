@@ -57,5 +57,7 @@ cbshbsdbvvjsjnsjcnsjcdsihvnsjnjjenn jen ne nefu ndfn udn u udfn ufdn odn udnu nd
 |Clase|ASIX1|M4|
 
 -[ ] Opción A
+
 -[X] Opción B
+
 -[ ] Opción C
