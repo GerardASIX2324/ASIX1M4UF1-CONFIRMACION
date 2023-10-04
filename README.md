@@ -55,3 +55,7 @@ cbshbsdbvvjsjnsjcnsjcdsihvnsjnjjenn jen ne nefu ndfn udn u udfn ufdn odn udnu nd
 |Col 3 es|Derecha|134€|
 |Estilo Cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+-[ ] Opción A
+-[X] Opción B
+-[ ] Opción C
